@@ -1,0 +1,9 @@
+@import 'header.css';
+@import 'blogCard.css';
+@import 'footer.css';
+@import 'posterPage.css';
+
+main {
+    width: 80%;
+    margin: auto;
+}
